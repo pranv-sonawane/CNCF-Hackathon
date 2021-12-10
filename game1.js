@@ -233,4 +233,5 @@ function draw() {
  ctx.fillStyle = "#000";
  ctx.fillText("SCORE: " + score, 10, canvas.height-10);
 }
+
 main();

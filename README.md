@@ -1,5 +1,6 @@
 # CNCF-Hackathon
 
-# WEB GAME APP
+# WEB GAME 
 
-___Description: This is our project repo for the CNCF Hackathon 2021___ 
+we have built a simple website using HTML,CSS and javascript that lets the user play 2 different games.but,
+you might be thinking, this is just a website which consists of some games,which, are also coded with HTML,CSS and javascript!
