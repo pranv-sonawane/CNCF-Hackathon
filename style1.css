@@ -16,6 +16,7 @@ body {
 .gameButton{
   color: #ffffff;
   padding: 1rem;
+  margin: 20px;
   font-size: 14px;
   text-transform: uppercase;
   border-radius: 6px;
@@ -47,3 +48,4 @@ body {
   height: auto;
   width: 100px;
 }
+
