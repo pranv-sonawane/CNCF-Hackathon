@@ -1,5 +1,4 @@
-
-      var
+ var
 COLS = 26,
 ROWS = 26,
 EMPTY = 0,
@@ -20,9 +19,10 @@ frames,
 score;   
  
 grid = {
- 
- width: null,  
- height: null, 
+
+
+ width: 200,  
+ height: 200, 
  _grid: null,  
  
  
@@ -206,7 +206,7 @@ function update() {
  snake.insert(nx, ny);
  }
 }
- 
+
  
 function draw() {
  var tw = canvas.width/grid.width;
@@ -233,5 +233,4 @@ function draw() {
  ctx.fillStyle = "#000";
  ctx.fillText("SCORE: " + score, 10, canvas.height-10);
 }
-
 main();
