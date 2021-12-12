@@ -25,7 +25,7 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.2);
   background: transparent;
   display: flex;
-  align-items: center;
+  align-items: top;
 }
 .grid {
     display: flex;
@@ -45,7 +45,7 @@ body {
 }
 
 .button {
-  height: auto;
+  height: 20px;
   width: 100px;
 }
 

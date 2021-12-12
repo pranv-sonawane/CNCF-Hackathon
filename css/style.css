@@ -82,7 +82,10 @@ img {
   justify-content: center;
   list-style: none;
   justify-items: center;
+  position: relative;
+  left: 15%;
 }
+
 a:link, a:visited {
   
   color: white;
